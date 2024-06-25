@@ -27,7 +27,7 @@ const imageAltText = "woman holding laptop standing by server room with glass wa
 const Home = ({ name, title }) => {
   return (
     <section id="home" className="dark">
-      <img className="background" src="https://www.kaiwa-projects.com/assets/img/backstretch.jpg" alt="" />
+      <img className="background" src="https://image.slidesdocs.com/responsive-images/background/simple-clean-creal-modern-portfolio-purple-powerpoint-background_40057f696b__960_540.jpg" alt="" />
       <div style={{ position: "absolute", top: "30%", left: "2rem" }}>
         <h1>{name}</h1>
         <h2>{title}</h2>
